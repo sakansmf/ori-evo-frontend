@@ -1,0 +1,131 @@
+ .main-polling {
+   background-image: url('../../images/Gradient1.png');
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+   background-position: center;
+ }
+
+ .tittlepolling {
+   position: absolute;
+   left: 90px;
+   top: 70px;
+   font-family: 'Orbitron';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 25px;
+   color: #DFDFDF;
+ }
+
+ .bingkaikiripol,
+ .bingkaikananpol {
+   position: absolute;
+   box-sizing: border-box;
+   width: 350px;
+   height: 225px;
+   background: rgba(17, 17, 17, 0.2);
+   border: 1px solid #FFFFFF;
+   backdrop-filter: blur(30px);
+   border-radius: 20px;
+ }
+
+ .bingkaikananpol {
+   right: 155px;
+   top: 205px;
+ }
+
+ .bingkaikiripol {
+   left: 145px;
+   top: 205px;
+ }
+
+ .iconkiripol {
+   position: absolute;
+   width: 300px;
+   height: 320px;
+   left: 165px;
+   top: 110px;
+ }
+
+ .iconkananpol {
+   position: absolute;
+   width: 320px;
+   height: 320px;
+   right: 155px;
+   top: 110px;
+ }
+
+ .namakananpol,
+ .namakiripol {
+   position: absolute;
+   width: 274px;
+   height: 74px;
+   font-family: 'Orbitron';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 30px;
+   text-align: center;
+   color: #DFDFDF;
+ }
+
+ .namakananpol {
+   top: 430px;
+   right: 175px;
+ }
+
+ .namakiripol {
+   top: 430px;
+   left: 180px;
+ }
+
+ .kananpol button,
+ .kiripol button {
+   font-variant: normal;
+   position: absolute;
+   text-align: center;
+   border-radius: 30px;
+   color: #FBFBFB;
+   width: 230px;
+   height: 55px;
+   background: rgba(217, 217, 217, 0.3);
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 360;
+   font-size: 18px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+ }
+
+ .kananpol button {
+   right: 210px;
+   top: 460px;
+ }
+
+ .kiripol button {
+   left: 210px;
+   top: 460px;
+ }
+
+ .katakananpol,
+ .katakiripol {
+   position: absolute;
+   width: 350px;
+   height: 95px;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 200;
+   font-size: 12px;
+   line-height: 15px;
+   text-align: center;
+   color: #FFFFFF;
+ }
+
+ .katakananpol {
+   bottom: 10px;
+   right: 150px;
+ }
+
+ .katakiripol {
+   bottom: 10px;
+   left: 150px;
+ }

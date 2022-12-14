@@ -1,0 +1,219 @@
+.main-home {
+  background-image: url('../../images/Gradient1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.tittlehome {
+  position: absolute;
+  left: 240px;
+  top: 170px;
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 80px;
+  color: #DFDFDF;
+}
+
+#menu1 {
+  position: absolute;
+  top: 235px;
+  left: 160px;
+  clear: both;
+}
+
+#mainmenu li {
+  float: left;
+  padding: 15 15px 0 0px;
+  display: inline;
+  position: relative;
+}
+
+#mainmenu button {
+  margin-left: 7px;
+  margin-right: 7px;
+  border-radius: 10px;
+  border: 0px;
+  background-color: #263138;
+}
+
+#mainmenu a {
+  display: block;
+  margin-left: 25px;
+  margin-right: 25px;
+  text-decoration: none;
+  display: block;
+  padding-top: 11px;
+  padding-bottom: 0px;
+  color: #ffffff;
+  height: 25px;
+}
+
+#mainmenu button:hover {
+  text-decoration: none;
+  background: #263138be;
+}
+
+.bingkai1 {
+  position: absolute;
+  width: 151px;
+  height: 90px;
+  left: 188px;
+  top: 335px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  background: rgba(17, 17, 17, 0.2);
+  backdrop-filter: blur(30px);
+}
+
+.bingkai2 {
+  position: absolute;
+  width: 216px;
+  height: 100px;
+  left: 360px;
+  top: 325px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  background: rgba(17, 17, 17, 0.2);
+  backdrop-filter: blur(30px);
+}
+
+.bingkai3 {
+  position: absolute;
+  width: 140px;
+  height: 90px;
+  left: 162px;
+  top: 450px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  background: rgba(17, 17, 17, 0.2);
+  backdrop-filter: blur(30px);
+}
+
+.bingkai4 {
+  position: absolute;
+  position: absolute;
+  width: 170px;
+  height: 90px;
+  left: 329px;
+  top: 450px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  background: rgba(17, 17, 17, 0.2);
+  backdrop-filter: blur(30px);
+}
+
+.bingkai5 {
+  position: absolute;
+  width: 255px;
+  height: 90px;
+  left: 530px;
+  top: 450px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  background: rgba(17, 17, 17, 0.2);
+  backdrop-filter: blur(30px);
+}
+
+.iconhome1 {
+  position: absolute;
+  width: 42.95px;
+  height: 35.6px;
+  left: 250px;
+  top: 362px;
+}
+
+.iconhome2 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 420px;
+  top: 325px;
+}
+
+.iconhome3 {
+  position: absolute;
+  width: 100px;
+  height: 75px;
+  left: 186px;
+  top: 465px;
+}
+
+.iconhome4 {
+  position: absolute;
+  position: absolute;
+  width: 60px;
+  height: 55.35px;
+  left: 385px;
+  top: 475px;
+}
+
+.iconhome5 {
+  position: absolute;
+  width: 110px;
+  height: 138.54px;
+  left: 598px;
+  top: 405px;
+}
+
+.katahome {
+  position: absolute;
+  width: 640px;
+  height: 250px;
+  left: 520px;
+  top: 195px;
+}
+
+#katahome1 {
+  position: absolute;
+  left: 250px;
+  top: 10px;
+  width: 440px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 650;
+  font-size: 27px;
+  line-height: 120%;
+}
+
+#katahome2 {
+  color: #ffffff;
+  width: 280px;
+  height: 150px;
+  left: 250px;
+  top: 60px;
+  position: absolute;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-size: 13px;
+  line-height: 150%;
+  display: flex;
+  align-items: flex-end;
+
+}
+
+#menu {
+  position: absolute;
+  font-family: Orbitron;
+  top: 25px;
+  right: 0px;
+  clear: both;
+}
+
+.itembulat {
+  position: absolute;
+  width: 500px;
+  height: 555px;
+  left: 0px;
+  top: 35px;
+}
+
+.smallspline {
+  position: absolute;
+  width: 302px;
+  height: 287px;
+  right: -50px;
+}

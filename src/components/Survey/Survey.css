@@ -1,0 +1,201 @@
+.main-survey {
+  background-image: url('../../images/Gradient1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+}
+
+.tittlesurvey {
+  position: absolute;
+  left: 90px;
+  top: 70px;
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  color: #DFDFDF;
+}
+
+.bingkaikiri,
+.bingkaikanan {
+  position: absolute;
+  box-sizing: border-box;
+  width: 235px;
+  height: 130px;
+  background: rgba(17, 17, 17, 0.2);
+  border: 1px solid #FFFFFF;
+  backdrop-filter: blur(30px);
+  border-radius: 20px;
+}
+
+.bingkaikanan {
+  right: 155px;
+  top: 175px;
+}
+
+.bingkaikiri {
+  left: 145px;
+  top: 175px;
+}
+
+.iconkiri {
+  position: absolute;
+  width: 160.7px;
+  height: 185px;
+  left: 195px;
+  top: 120px;
+}
+
+.iconkanan {
+  position: absolute;
+  width: 180.54px;
+  height: 185px;
+  right: 180px;
+  top: 120px;
+}
+
+.namakanan,
+.namakiri {
+  position: absolute;
+  width: 350px;
+  height: 52px;
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  text-align: center;
+  color: #DFDFDF;
+}
+
+.namakanan {
+  top: 310px;
+  right: 90px;
+}
+
+.namakiri {
+  top: 310px;
+  left: 95px;
+}
+
+.katakanan,
+.katakiri,
+.katakanan1,
+.katakiri1 {
+  position: absolute;
+  width: 350px;
+  height: 95px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 13px;
+  line-height: 15px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.katakanan {
+  top: 370px;
+  right: 90px;
+}
+
+.katakanan1 {
+  top: 485px;
+  right: 90px;
+}
+
+.katakiri {
+  top: 370px;
+  left: 95px;
+}
+
+.katakiri1 {
+  top: 485px;
+  left: 95px;
+}
+
+.vimikanan,
+.vimikiri,
+.vimikanan1,
+.vimikiri1 {
+  position: absolute;
+  width: 80px;
+  height: 26px;
+  border-radius: 30px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 27px;
+  text-align: center;
+  color: #FFFFFF;
+  background: rgba(217, 217, 217, 0.3);
+}
+
+.vimikanan {
+  top: 340px;
+  right: 220px;
+}
+
+.vimikanan1 {
+  top: 450px;
+  right: 220px;
+}
+
+.vimikiri {
+  top: 340px;
+  left: 230px;
+}
+
+.vimikiri1 {
+  top: 450px;
+  left: 230px;
+}
+
+.vimiatas {
+  position: absolute;
+  left: 42%;
+  top: 120px;
+  text-align: center;
+  border-radius: 30px;
+  color: #FBFBFB;
+  width: 180px;
+  height: 28px;
+  background: rgba(217, 217, 217, 0.3);
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  padding-top: 12px;
+}
+
+.Tengah button {
+  font-variant: normal;
+  position: absolute;
+  left: 38%;
+  bottom: 9px;
+  text-align: center;
+  border-radius: 30px;
+  color: #FBFBFB;
+  width: 300px;
+  height: 33px;
+  background: rgba(217, 217, 217, 0.3);
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 360;
+  font-size: 18px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.katatengah {
+  position: absolute;
+  left: 39%;
+  bottom: 60px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 38px;
+  color: #DFDFDF;
+}

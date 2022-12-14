@@ -1,0 +1,116 @@
+.main-login {
+    background-image: url('../../images/Gradient1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+.form-log {
+    font-size: 2px;
+    width: 360px;
+    font-family: 'Inter';
+    font-style: normal;
+    box-sizing: border-box;
+    position: absolute;
+    right: 70px;
+    top: 262px;
+}
+
+p {
+    font-family: 'Orbitron';
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.18em;
+    color: #FFFFFF;
+}
+
+.a a {
+    color: #445964;
+}
+
+a {
+    color: #FFFFFF;
+}
+
+
+.under-form-log {
+    position: absolute;
+    text-align: left;
+    right: 150px;
+    bottom: 90px;
+}
+
+.router {
+    color: #445964;
+}
+
+.router a {
+    color: #ffffff;
+}
+
+.box1 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 0px 10px 8px;
+    position: absolute;
+    width: 234px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+}
+
+.box2 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 0px 10px 8px;
+    position: absolute;
+    width: 234px;
+
+    top: 100px;
+    background: #ffff;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+}
+
+.icon3 {
+    bottom: 10px;
+    left: 170px;
+    width: 160px;
+    height: 39.92px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+    position: absolute;
+
+}
+
+.icon3 .icongit {
+    background-image: url('../../images/Git.svg');
+    left: 0px;
+    position: absolute;
+    width: 39.92px;
+    height: 39.92px;
+}
+
+.icon3 .iconig {
+    background-image: url('../../images/Instagram.svg');
+    width: 39.92px;
+    left: 120px;
+    position: absolute;
+    height: 39.92px;
+}
+
+.icon3 .iconlink {
+    background-image: url('../../images/Linkedin.svg');
+    width: 39.92px;
+    height: 39.92px;
+    left: 60px;
+    position: absolute;
+}
